@@ -1,6 +1,6 @@
 # WARNING🌈
 Script ini masih tahap perkembangan ngab jadi kalo masih ada eror²nya Sabar🤗 Yang penting kan 💯% Free😅
-## WARNIG2
+## WARNING2
 (( Yang Sudah Install Ikuti Cara update nya dibawah))
 ## PAKE DOANG NGGA FOLLOW, KONTOL LOO
 ![deskripsi gambar](https://i.ibb.co/DkW0rqJ/Screenshot-2022-04-11-22-35-25-654-com-termux.png)
