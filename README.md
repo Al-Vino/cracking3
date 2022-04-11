@@ -3,7 +3,7 @@ Script ini masih tahap perkembangan ngab jadi kalo masih ada eror²nya Sabar🤗
 
 ## PAKE DOANG NGGA FOLLOW, KONTOL LOO
 ![deskripsi gambar](https://i.ibb.co/DkW0rqJ/Screenshot-2022-04-11-22-35-25-654-com-termux.png)
-
+🐕 Gambar Hanya Pemanis 🐕
 ## Instalation
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
